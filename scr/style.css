@@ -63,4 +63,11 @@
 
 @media (max-width: 800px)  {
     
+    .btn {
+        font-size: 100px;
+    }
+
+    .input{
+        font-size: 15px;
+    }
 }
